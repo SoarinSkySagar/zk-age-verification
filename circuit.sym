@@ -1,0 +1,14 @@
+1,1,0,main.isAdult
+2,2,0,main.dobYear
+3,3,0,main.dobMonth
+4,4,0,main.dobDay
+5,5,0,main.currentYear
+6,6,0,main.currentMonth
+7,7,0,main.currentDay
+8,8,0,main.ageYears
+9,9,0,main.ageMonths
+10,10,0,main.ageDays
+11,11,0,main.tempAgeYears
+12,12,0,main.ageAdjustmentNeeded
+13,13,0,main.monthTooEarly
+14,14,0,main.dayTooEarly
